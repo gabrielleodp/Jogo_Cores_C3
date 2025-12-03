@@ -69,6 +69,6 @@ GitHub Pages:
 
 1. Baixe ou clone o repositório:
    ```bash
-   https://github.com/seu-usuario/seu-repositorio.git](https://github.com/gabrielleodp/Jogo_Cores_C3
+   https://github.com/gabrielleodp/Jogo_Cores_C3
 
 
