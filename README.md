@@ -62,4 +62,4 @@ O jogo trabalha conceitos fundamentais de manipulação do DOM, eventos, lógica
 GitHub Pages:
    
 ```bash
-   https://github.com/gabrielleodp/Jogo_Cores_C3
+  https://gabrielleodp.github.io/Jogo_Cores_C3
