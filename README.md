@@ -54,7 +54,21 @@ O jogo trabalha conceitos fundamentais de manipulação do DOM, eventos, lógica
 - **CSS3** – Estilização, responsividade e transição de cores  
 - **JavaScript (ES6+)** – Lógica do jogo e manipulação do DOM  
 
+
 ---
 
-## 📂 Estrutura de Arquivos
+## 🌐 Acesso Online
+
+GitHub Pages:
+
+🔗 **GitHub Pages:**
+
+---
+
+## 🚀 Como Executar Localmente
+
+1. Baixe ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/gabrielleodp/Jogo_Cores_C3
+
 
