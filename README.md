@@ -61,7 +61,8 @@ O jogo trabalha conceitos fundamentais de manipulação do DOM, eventos, lógica
 
 GitHub Pages:
 
-🔗 **GitHub Pages:**
+🔗 ```bash https://gabrielleodp.github.io/Jogo_Cores_C3/```
+
 
 ---
 
@@ -69,6 +70,6 @@ GitHub Pages:
 
 1. Baixe ou clone o repositório:
    ```bash
-   https://github.com/gabrielleodp/Jogo_Cores_C3
+   https://github.com/gabrielleodp/Jogo_Cores_C3```
 
 
